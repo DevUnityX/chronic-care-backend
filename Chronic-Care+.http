@@ -1,0 +1,6 @@
+@Chronic_Care__HostAddress = http://localhost:5080
+
+GET {{Chronic_Care__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
